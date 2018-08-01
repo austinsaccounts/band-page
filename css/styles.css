@@ -1,10 +1,21 @@
 .band-pic {
-  float: center;
   width: 30%;
-  height: 40%;
+  height: 30%;
   }
 
 body {
   color: red;
   background: orange;
+}
+
+.sidebar {
+  float: left;
+  width: 150px;
+  height: 750px;
+  background-color: yellow;
+  color: blue;
+  border-color: red;
+  outline-color: red;
+  outline-width: thick;
+  outline-style: solid;
 }
