@@ -1,0 +1,10 @@
+.band-pic {
+  float: center;
+  width: 30%;
+  height: 40%;
+  }
+
+body {
+  color: red;
+  background: orange;
+}
