@@ -30,17 +30,26 @@ img.band-pic:hover {
 
 body {
   color: red;
-  background: orange;
+  background: darkred;
 }
 
 .sidebar {
   float: left;
   width: 150px;
   height: 750px;
-  background-color: yellow;
-  color: blue;
-  border-color: red;
-  outline-color: red;
+  background-color: darkred;
+  color: yellow;
+  border-color: white;
+  outline-color: white;
   outline-width: thick;
   outline-style: solid;
+}
+.sidebar a {
+  color: yellow;
+}
+.sidebar h1 {
+  font-family: 'Miltonian', cursive;
+}
+.sidebar li {
+  font-family: 'Macondo Swash Caps', cursive;
 }
