@@ -3,7 +3,6 @@ img.band-pic:hover {
   transform: translate3d(0, 0, 0);
   backface-visibility: hidden;
   perspective: 1000px;
-  padding: 50px;
 }
 
 @keyframes shake {
@@ -44,12 +43,4 @@ body {
   outline-color: red;
   outline-width: thick;
   outline-style: solid;
-  margin: 10px;
-  padding: 5px;
-}
-.sidebar h1 {
-  font-family: 'Miltonian', cursive;
-}
-.sidebar li {
-  font-family: 'Macondo Swash Caps', cursive;
 }
